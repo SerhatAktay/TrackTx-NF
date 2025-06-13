@@ -1,4 +1,4 @@
-# TrackTx :musical_note:
+# TrackTx
 *High‑resolution Pol II transcription tracking pipeline*
 
 ---
@@ -48,7 +48,7 @@
 ## 3  Quick‑start
 1. **Clone** the repo:
    ```bash
-   git clone https://github.com/your‑org/TrackTx.git && cd TrackTx
+   git clone https://github.com/serhataktay/TrackTx-NF.git && cd TrackTx-NF
    ```  
 2. **Generate inputs** with the **HTML Config Generator**:
    ```bash
@@ -122,7 +122,6 @@ results/
 |---------|---------|
 | Pull latest code | `git pull` |
 | Switch to a tagged release | `git checkout tags/v0.2.0` |
-| Nextflow pull (immutable)  | `nextflow pull your‑org/TrackTx` |
 
 ---
 
